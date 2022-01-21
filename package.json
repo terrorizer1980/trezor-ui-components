@@ -86,7 +86,7 @@
         "react-router-dom": "^4.3.1",
         "react-select": "^2.4.3",
         "react-switch": "^5.0.0",
-        "react-textarea-autosize": "^7.1.0"
+        "react-textarea-autosize": "^7.1.2"
     },
     "peerDependencies": {
         "react": "^16.8",
